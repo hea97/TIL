@@ -1,6 +1,6 @@
 nubmer = input("정수 입력> ")
 
-last_character = number[-1]
+last_character = nubmer[-1]
 
 last_number = int(last_character)
 
