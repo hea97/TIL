@@ -341,14 +341,14 @@ inch 단위의 숫자를 입력받아 cm 변환하여 출력하는 프로그램.
 
 ```python
 # 숫자 입력 받기
-raw_input = input("inch 단위 숫자 입력 : ")
+raw_input = input("인치 단위 숫자 입력: ")
 
 # 입력받은 데이터 숫자 자료형 변경, cm 단위로 변경
 inch = int(raw_input)
 cm = inch * 2.54
 
 # 출력
-print(inch, "inch는 cm 단위로,", cm, 'cm 입니다.")
+print(inch, "인치는 cm 단위로", cm, "cm 입니다.")
 ```
 
 ---
