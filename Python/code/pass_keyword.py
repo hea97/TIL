@@ -3,7 +3,4 @@ nubmer = int(number)
 
 if nubmer > 0:
     
-    pass
 else
-
-		pass
