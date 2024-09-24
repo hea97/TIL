@@ -333,3 +333,30 @@ print(type(output_b), output_b)
 <class 'str'> 10
 <class 'str'> 5.55
 ```
+
+**누적 예제 소스 코드** | `inch_to_cm.py`
+
+사용자 데이터 입력 받아 가공한 후 결과 보여주는 것은 프로그램의 기본.  
+inch 단위의 숫자를 입력받아 cm 변환하여 출력하는 프로그램.
+
+```python
+# 숫자 입력 받기
+raw_input = input("inch 단위 숫자 입력 : ")
+
+# 입력받은 데이터 숫자 자료형 변경, cm 단위로 변경
+inch = int(raw_input)
+cm = inch * 2.54
+
+# 출력
+print(inch, "inch는 cm 단위로,", cm, 'cm 입니다.")
+```
+
+---
+
+inch 단위 숫자 입력 : 27
+
+27 inch는 cm 단위로 68.58 cm 입니다.
+
+---
+
+(inch는 2.54cm)
