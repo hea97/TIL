@@ -1,3 +1,5 @@
+[원본 글](https://medium.com/corca/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-git-flow-%EC%82%AC%EC%9A%A9%EB%B2%95-aka-app%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%93%B0%EC%9D%B4%EB%8A%94-git-flow-%EB%B8%8C%EB%9E%9C%EC%B9%AD-%EC%A0%84%EB%9E%B5-9e860d7ce771)
+
 git-flow 사용되는 브랜치 총 5개
 
 1. main (= master)
