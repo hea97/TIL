@@ -1,5 +1,5 @@
 # TIL
- 공부하는 저장소
+ 태희의 공부 모아보기
 
 ## Git
 - [Git Flow branch](https://github.com/hea97/TIL/blob/main/Git/Git%20Flow%20branch.md)  
