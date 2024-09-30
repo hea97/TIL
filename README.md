@@ -1,6 +1,6 @@
 # TIL
  🤓 TIL(Today I Learn) 어떤 공부를 하였을까?  
- 이곳도 방문해 보시는 것 어떤 가요? ⬇️
+ 이곳도 방문해 보시는 것 어떤 가요? ⬇️⬇️
  - [T스토리](https://hea97.tistory.com/)
  - [공부 찍먹해보는거 어때요?😋](https://hea97.tistory.com/category/TIL/%F0%9F%A4%A4%20%7C%20%EC%B0%8D%EB%A8%B9%ED%95%98%EA%B8%B0)
  - [공부한 내용을 한 번더 정리해봤어요!🤓](https://hea97.tistory.com/category/TIL)    
@@ -14,6 +14,3 @@
 - [Git 용어](https://github.com/hea97/TIL/blob/main/Git/Git%26GitHub/Git%20%EC%9A%A9%EC%96%B4.md)  
 - [Git 명령어](https://github.com/hea97/TIL/blob/main/Git/Git%26GitHub/Git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)  
 - [Git add ~ pr](https://github.com/hea97/TIL/blob/main/Git/Git%26GitHub/Git%20add%20~%20pr.md)  
----
-## 관련 글
-- [GIT 핵심 명령어 요약 총정리 모음](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%ED%95%B5%EC%8B%AC-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9A%94%EC%95%BD-%F0%9F%9A%A9-%EC%B4%9D%EC%A0%95%EB%A6%AC)
