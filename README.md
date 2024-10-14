@@ -18,3 +18,4 @@
 ### 운영체제
 - [운영체제](https://github.com/hea97/TIL/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 - [프로세스](https://github.com/hea97/TIL/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
+- [스케줄링](https://github.com/hea97/TIL/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
