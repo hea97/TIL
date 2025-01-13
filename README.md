@@ -1,4 +1,4 @@
-# TIL (Today I Learned)😉
+# TIL (Today I Learned)😉 (정리중)
 
 이 저장소는 배운 내용, 기술적인 개념, 공부 일지를 기록하고 정리하기 위한 `hea97`의 개인 학습 노트입니다.
 
